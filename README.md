@@ -19,6 +19,7 @@ g4_genome.py has two classes designed to deal with genome file and G4 bed file t
 
 Instructions:
 the D_thermus notebook contains a step by step instructions to use this package.
+base_dir which is the directory to the root directory (where all the files are stored) is needed for this module.
 
 Questions asked in this package:
 
