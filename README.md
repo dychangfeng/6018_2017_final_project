@@ -20,3 +20,13 @@ g4_genome.py has two classes designed to deal with genome file and G4 bed file t
 Instructions:
 the D_thermus notebook contains a step by step instructions to use this package.
 
+Questions asked in this package:
+
+1. Does different genus of bacteria have different G4 density (number of G4s per million base pairs)?
+    This question can be answered by loading both genome sequence (fasta file) and list of G4s in the genome in to G4_genome class. The G4_genome class has properties such as GC_percentage, G4_density, and most popular G4s.
+    
+    
+2. Is G4s enriched in any genomic element such as around TSS (transcription start site) region?
+    This question was approached by different functions in gff_G4_functions to calculate the percentage of G4s in the coding regions and around TSS regions. 
+
+
