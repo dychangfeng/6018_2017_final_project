@@ -1,6 +1,6 @@
 # intro_to_programming_with_python_FINAL_PROJECT_YUN
 
-This package deals is desinged to look for G-quadruplexes (G4s) in a genome or a list of genomes in terms where are they and whether they are enriched in the gene regulation region.
+This package is desinged to look for G-quadruplexes (G4s) in a genome or a list of genomes in terms where are they and whether they are enriched in the gene regulation region.
 
 Three types of files are needed to use this package:
 1. The genome of interest in fasta format. All genomes are in the genomes folder under the root directory.
