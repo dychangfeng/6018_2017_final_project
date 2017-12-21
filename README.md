@@ -8,7 +8,7 @@ Three types of files are needed to use this package:
 3. All G4s found in the genome by Quadparser in bed format. All G4 bed files are in the all_G4 foler under the root directory.
 
 Environment and modules required for this package:
-1. This package is developted under PYTHON 2.7. But it should also work with PYTHON 3.7 with minor changes.
+1. This package is developed under PYTHON 2.7. But it should also work with PYTHON 3.7 with minor changes.
 2. All the package required: pandas, numpy, OS, gzip, pybedtools, re, matplotlib, holoviews, jupyter, and notebook.
 
 Modules in this package:
