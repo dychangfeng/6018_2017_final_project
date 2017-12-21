@@ -20,7 +20,7 @@ def reverse_comp(seq):
     return ''.join(bases_dict.get(base, base) for base in seq[::-1])
 
 class Genome(defaultdict):
-    """genome class, each genome has one G4 class"""
+    """genome class, each genome can be one G4 class object"""
     def __init__(self, ID, *args, **kwargs):
         super(Genome, self).__init__(*args, **kwargs)
         self.ID = ID
