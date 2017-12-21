@@ -21,6 +21,8 @@ Instructions:
 the D_thermus notebook contains a step by step instructions to use this package.
 base_dir which is the directory to the root directory (where all the files are stored) is needed for this module.
 
+Due to the sizes of all the files, original files required for the D_thermus notebook are not uploaded. But all the results are uploaded to the results folder.
+
 Questions asked in this package:
 
 1. Does different genus of bacteria have different G4 density (number of G4s per million base pairs)?
