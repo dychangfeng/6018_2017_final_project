@@ -1,4 +1,4 @@
-# intro_to_programming_with_python_FINAL_PROJECT_YUN
+# Distribution of PQS in bacterial genomes
 
 Youtube video that describe this project:
 https://youtu.be/Uf4yLfONwjo
